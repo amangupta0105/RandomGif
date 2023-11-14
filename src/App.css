@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.heading{
+  font-size: 2rem;
+  background-color: white;
+  color: black;
+  padding: 1rem;
+  margin: 2rem;
+  border-radius: 20px;
+}
